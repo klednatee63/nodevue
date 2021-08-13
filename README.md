@@ -5,6 +5,5 @@
 # การใส่ข้อมูลเพิ่มเติมทีหลัง
 # git add .
 # git commit -m "Add Create Vue Project"
-# git pull
-# git push .
+# git push
 # เป็นอันว่าเสร็จแล้วครับ
